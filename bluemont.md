@@ -1,4 +1,5 @@
-lowchart TD
+```mermaid
+flowchart TD
 
 A([Lead Source<br/>Facebook Ads / Landing Page])
 --> B[Lead Inquiry Form Submitted]
@@ -72,3 +73,4 @@ AS --> AT[Cancellation Email + SMS]
 AT --> AP
 
 AF --> J
+```
